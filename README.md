@@ -1,7 +1,7 @@
 # GitHub for Developers
 
 - Class Date: 
-- Facilitator: @manuele
+- Facilitator: @mericstam
 
 ## Class Resources
 
